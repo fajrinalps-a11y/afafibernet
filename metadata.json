@@ -1,0 +1,6 @@
+{
+  "name": "AFAFIBER - Billing & ISP Management",
+  "description": "Sistem Manajemen Billing ISP, Portal Pelanggan Mandiri, Notifikasi WhatsApp & Telegram, Integrasi MikroTik, GenieACS, Payment Gateway, dan Peta Fiber ODC/ODP AFAFIBER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
